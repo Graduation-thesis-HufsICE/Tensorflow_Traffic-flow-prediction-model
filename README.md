@@ -1,6 +1,6 @@
 # Tensorflow_Traffic-flow-prediction-model
 
-- 💻 **Computer specs used to train the model** : 
+- 💻 **Computer specs used to train the model**
         CPU : i5-7300HQ, GPU : GTX 1050 4GB
 
 - 📒  **Data used to train the model** : 
