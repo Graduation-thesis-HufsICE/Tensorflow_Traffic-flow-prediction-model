@@ -6,8 +6,7 @@
 3. LSTM Layer를 통한 시계열 예측 모델 생성
 
 #### 학습 결과
-<img src = "images\저장.png" alt = "image1">
-<img src = "images\저장.png" alt = "image1">
+<img src = "result.png">
 
 ##
 - 💻 **Computer specs used to train the model**
